@@ -1,0 +1,35 @@
+c:\users\m.franco\documents\visual studio 2013\Projects\ArduinoSerial\ArduinoSerial\bin\Debug\ArduinoSerial.exe.config
+c:\users\m.franco\documents\visual studio 2013\Projects\ArduinoSerial\ArduinoSerial\bin\Debug\ArduinoSerial.exe
+c:\users\m.franco\documents\visual studio 2013\Projects\ArduinoSerial\ArduinoSerial\bin\Debug\ArduinoSerial.pdb
+c:\users\m.franco\documents\visual studio 2013\Projects\ArduinoSerial\ArduinoSerial\obj\Debug\ArduinoSerial.csprojResolveAssemblyReference.cache
+c:\users\m.franco\documents\visual studio 2013\Projects\ArduinoSerial\ArduinoSerial\obj\Debug\ArduinoSerial.Form1.resources
+c:\users\m.franco\documents\visual studio 2013\Projects\ArduinoSerial\ArduinoSerial\obj\Debug\ArduinoSerial.Properties.Resources.resources
+c:\users\m.franco\documents\visual studio 2013\Projects\ArduinoSerial\ArduinoSerial\obj\Debug\ArduinoSerial.csproj.GenerateResource.Cache
+c:\users\m.franco\documents\visual studio 2013\Projects\ArduinoSerial\ArduinoSerial\obj\Debug\ArduinoSerial.exe
+c:\users\m.franco\documents\visual studio 2013\Projects\ArduinoSerial\ArduinoSerial\obj\Debug\ArduinoSerial.pdb
+C:\Users\M.FRANCO\documents\visual studio 2013\Projects\ArduinoSerial\ArduinoSerial\bin\Debug\MetroFramework.dll
+C:\Users\M.FRANCO\Documents\Visual Studio 2013\Projects\ArduinoSerial\ArduinoSerial\bin\Debug\MySql.Data.dll
+C:\Users\M.FRANCO\Documents\Visual Studio 2013\Projects\ArduinoSerial\ArduinoSerial\bin\Debug\MySql.Web.dll
+D:\Dados\Documents\Visual Studio 2013\Projects\ArduinoSerial\ArduinoSerial\bin\Debug\ArduinoSerial.exe.config
+D:\Dados\Documents\Visual Studio 2013\Projects\ArduinoSerial\ArduinoSerial\bin\Debug\ArduinoSerial.exe
+D:\Dados\Documents\Visual Studio 2013\Projects\ArduinoSerial\ArduinoSerial\bin\Debug\ArduinoSerial.pdb
+D:\Dados\Documents\Visual Studio 2013\Projects\ArduinoSerial\ArduinoSerial\bin\Debug\MetroFramework.dll
+D:\Dados\Documents\Visual Studio 2013\Projects\ArduinoSerial\ArduinoSerial\bin\Debug\MySql.Data.dll
+D:\Dados\Documents\Visual Studio 2013\Projects\ArduinoSerial\ArduinoSerial\bin\Debug\MySql.Web.dll
+D:\Dados\Documents\Visual Studio 2013\Projects\ArduinoSerial\ArduinoSerial\obj\Debug\ArduinoSerial.csprojResolveAssemblyReference.cache
+D:\Dados\Documents\Visual Studio 2013\Projects\ArduinoSerial\ArduinoSerial\obj\Debug\ArduinoSerial.Form1.resources
+D:\Dados\Documents\Visual Studio 2013\Projects\ArduinoSerial\ArduinoSerial\obj\Debug\ArduinoSerial.Properties.Resources.resources
+D:\Dados\Documents\Visual Studio 2013\Projects\ArduinoSerial\ArduinoSerial\obj\Debug\ArduinoSerial.csproj.GenerateResource.Cache
+D:\Dados\Documents\Visual Studio 2013\Projects\ArduinoSerial\ArduinoSerial\obj\Debug\ArduinoSerial.exe
+D:\Dados\Documents\Visual Studio 2013\Projects\ArduinoSerial\ArduinoSerial\obj\Debug\ArduinoSerial.pdb
+D:\mef\IF\IA\Semana 3 - Arduino\ArduinoSerial-C#\ArduinoSerial\bin\Debug\ArduinoSerial.exe.config
+D:\mef\IF\IA\Semana 3 - Arduino\ArduinoSerial-C#\ArduinoSerial\bin\Debug\ArduinoSerial.exe
+D:\mef\IF\IA\Semana 3 - Arduino\ArduinoSerial-C#\ArduinoSerial\bin\Debug\ArduinoSerial.pdb
+D:\mef\IF\IA\Semana 3 - Arduino\ArduinoSerial-C#\ArduinoSerial\bin\Debug\MySql.Data.dll
+D:\mef\IF\IA\Semana 3 - Arduino\ArduinoSerial-C#\ArduinoSerial\bin\Debug\MySql.Web.dll
+D:\mef\IF\IA\Semana 3 - Arduino\ArduinoSerial-C#\ArduinoSerial\obj\Debug\ArduinoSerial.csprojResolveAssemblyReference.cache
+D:\mef\IF\IA\Semana 3 - Arduino\ArduinoSerial-C#\ArduinoSerial\obj\Debug\ArduinoSerial.Form1.resources
+D:\mef\IF\IA\Semana 3 - Arduino\ArduinoSerial-C#\ArduinoSerial\obj\Debug\ArduinoSerial.Properties.Resources.resources
+D:\mef\IF\IA\Semana 3 - Arduino\ArduinoSerial-C#\ArduinoSerial\obj\Debug\ArduinoSerial.csproj.GenerateResource.Cache
+D:\mef\IF\IA\Semana 3 - Arduino\ArduinoSerial-C#\ArduinoSerial\obj\Debug\ArduinoSerial.exe
+D:\mef\IF\IA\Semana 3 - Arduino\ArduinoSerial-C#\ArduinoSerial\obj\Debug\ArduinoSerial.pdb
